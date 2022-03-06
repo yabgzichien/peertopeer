@@ -1,0 +1,19 @@
+.VideoPlayer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.myVideoContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.userVideoContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+video{
+    max-width: 550px;
+    max-height: 550px;
+}
